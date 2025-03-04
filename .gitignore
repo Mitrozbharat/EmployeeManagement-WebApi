@@ -1,0 +1,11 @@
+(
+echo bin/
+echo obj/
+echo .vs/
+echo *.user
+echo *.suo
+echo *.dll
+echo *.exe
+echo *.log
+) > .gitignore
+
